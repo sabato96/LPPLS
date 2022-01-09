@@ -1,0 +1,30 @@
+Package: lppls
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sabato",
+           family = "Gargiulo",
+           role = c("aut", "cre"),
+           email = "gargiulosabato14@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    dplyr,
+    ggplot2,
+    lubridate,
+    stats,
+    utils,
+    foreach,
+    tibble,
+    lubridate,
+    tseries
+Depends:
+    ggplot2,
+    tibble,
+    dplyr,
+    tidyverse
