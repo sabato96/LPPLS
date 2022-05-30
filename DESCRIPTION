@@ -1,5 +1,5 @@
 Package: lppls
-Title: Log Period Power Law Toolkit
+Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Sabato",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "gargiulosabato14@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This package compute the LPPLS model and the Confidence Indicators based on the methods developed by Prof. Didier Sornette.
+Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
